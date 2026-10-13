@@ -1,0 +1,11 @@
+{
+    "name": "WallBox",
+    "author": "Markami",
+    "version": "2.0.0",
+    "description": "Walls in worldbox, it was that hard? :troll:",
+    "iconPath": "icon.png",
+    "GUID": "com.wallbox.mod",
+    "Dependencies": [],
+    "OptionalDependencies": [],
+    "IncompatibleWith": []
+}
